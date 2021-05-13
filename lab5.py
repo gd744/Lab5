@@ -8,3 +8,24 @@ A loop will then run through the array of strings and match the word with the tr
 
 The full translated set will be print to the user.
 """
+
+"""
+main():
+    sentence = input()
+    dictionary = create_dictionary()
+    translate(sentence, dictionary)
+
+translate(sentence, dictionary):
+word
+each word, translate
+print to user
+
+create the dictionary
+    read in textese.txt
+    create list from each line
+    close the file
+    create a dict off the new list
+    return the dict
+
+main()
+"""
